@@ -1,0 +1,1 @@
+codec for mjpeg. the goal is to make a frame by frame iterator
