@@ -1,4 +1,4 @@
-use mjpeg_codec::codec;
+use mjpeg_codec::parser;
 fn main() {
-    codec::decoder::hello();
+    parser::avi::open("input.avi");
 }
